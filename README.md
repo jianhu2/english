@@ -8,6 +8,7 @@
 
 # 2. 学位英语笔记
 - [1.10种词类型](https://www.processon.com/mindmap/639c09381e085317e0a0b828)
-- [2.句子的5种类型](./degree/句子5种类型.md)
-- [3.句子的5种类型](./degree/README.md)
+- [2.1句子的5种类型](degree/2.1.句子类型一.md)
+- [2.2句子的5种类型](degree/2.2.句子类型二.md)
+- [3.时态](./degree/3.时态.md)
 
