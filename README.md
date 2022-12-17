@@ -5,7 +5,9 @@
 - [4.重点词语及常见搭配](./英语2/万能句子和写作模块.md)
 
 
-- [学位英语笔记](./degree/README.md)
-- [pets3级笔记](./pets3/README.md)
 
+# 2. 学位英语笔记
+- [1.10种词类型](https://www.processon.com/mindmap/639c09381e085317e0a0b828)
+- [2.句子的5种类型](./degree/句子5种类型.md)
+- [3.句子的5种类型](./degree/README.md)
 
